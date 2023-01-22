@@ -10,6 +10,7 @@ En este curso vemos de todo
 * Trucos muy locos del profe
 * Las personalidades de Freddy
 *Creado por el increible platzi team
+*Incluye ejemplos en windows, linux y  mac
 >
 
 Y como un amable recordatorio *"Este ReadMe es un chiste"*
