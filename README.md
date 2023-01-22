@@ -9,6 +9,7 @@ En este curso vemos de todo
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profe
 * Las personalidades de Freddy
+*Creado por el increible platzi team
 >
 
 Y como un amable recordatorio *"Este ReadMe es un chiste"*
